@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Gravitas_Coding.Permutation"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Gravitas_Coding"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <ScrollViewer Height="1800" HorizontalAlignment="Left" Width="490">
+        <Grid Height="2600" Width="485">
+            <TextBox HorizontalAlignment="Left" Margin="0,0,0,0" TextWrapping="Wrap" Text="public class permutation {&#xD;&#xA;&#xD;&#xA;&#x9;public static void main(String[] args) {&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;&#x9;&#x9;String var = &quot;hello&quot;;&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;&#x9;&#x9;String var2 = &quot;lleho&quot;;&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;&#x9;&#x9;String sortedVar = sort(var);&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;&#x9;&#x9;String sortedVar2 = sort(var2);&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;&#x9;&#x9;System.out.println(&quot;Sorted array 1 = &quot; + sortedVar + &quot; Sorted array 2 = &quot; + sortedVar2);&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;&#x9;&#x9;boolean yesOrNo = permutation(sortedVar, sortedVar2);&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;&#x9;&#x9;System.out.println(yesOrNo);&#xD;&#xA;&#xD;&#xA;&#x9;}&#xD;&#xA;&#x9;&#xD;&#xA;&#xD;&#xA;&#x9;public static String sort(String s) {&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;&#x9;&#x9;char[] content = s.toCharArray();&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;&#x9;&#x9;java.util.Arrays.sort(content);&#xD;&#xA;&#xD;&#xA;&#x9;&#x9;return new String(content);&#xD;&#xA;&#xD;&#xA;&#x9;}&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;public static boolean permutation(String s, String t) {&#xD;&#xA;&#x9;&#x9;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;&#x9;if (s.length() != t.length() ) {&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;&#x9;&#x9;return false;&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;&#x9;}&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;&#x9;return sort(s).equals(sort(t));&#xD;&#xA;&#x9;&#xD;&#xA;&#x9;}&#xD;&#xA;&#xD;&#xA;&#x9;&#xD;&#xA;}" VerticalAlignment="Top" Height="1442" Width="428" FontFamily="Fonts/Consolas.ttf#Consolas" Background="Black" Foreground="White" BorderThickness="0" IsHitTestVisible="False"/>
+            <Button x:ConnectionId='1' x:Name="button" Content="Go Back" HorizontalAlignment="Left" Margin="270,1406,0,0" VerticalAlignment="Top"                      Height="69" Width="158"/>
+        </Grid>
+
+    </ScrollViewer>
+</Page>
+

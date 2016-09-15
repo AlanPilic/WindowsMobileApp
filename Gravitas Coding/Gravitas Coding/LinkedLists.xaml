@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="Gravitas_Coding.LinkedLists"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Gravitas_Coding"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FF529FCD">
+        <HyperlinkButton x:Name="SimpleLinkedList" Content="Simple Linked List" HorizontalAlignment="Left" Margin="43,85,0,0" VerticalAlignment="Top" Height="87" Width="336" FontFamily="Fonts/Consolas.ttf#Consolas" Click="SimpleLinkedList_Click"/>
+        <HyperlinkButton Content="Circular Linked List" HorizontalAlignment="Left" Margin="43,170,0,0" VerticalAlignment="Top" Height="87" Width="374" FontFamily="Fonts/Consolas.ttf#Consolas"/>
+        <HyperlinkButton Content="Other Linked List" HorizontalAlignment="Left" Margin="43,255,0,0" VerticalAlignment="Top" Height="87" Width="336" FontFamily="Fonts/Consolas.ttf#Consolas"/>
+    </Grid>
+</Page>

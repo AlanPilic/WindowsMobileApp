@@ -1,0 +1,77 @@
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\App.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\AppsandStrings.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\HashMaps.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\LinkedLists.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\MainPage.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\Permutation.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\SecondPage.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\SimpleHashMap.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\SimpleLinkedList.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\StringReplace.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\UnitTest.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\Gravitas Coding.xr.xml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\Gravitas Coding.exe
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\Gravitas Coding.pdb
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\resources.pri
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\AppxManifest.xml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\bin\Debug\Gravitas Coding.build.appxrecipe
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\App.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\App.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\AppsandStrings.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\AppsandStrings.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\HashMaps.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\HashMaps.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\LinkedLists.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\LinkedLists.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\MainPage.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\MainPage.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\Permutation.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\Permutation.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SecondPage.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SecondPage.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SimpleHashMap.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SimpleHashMap.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SimpleLinkedList.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SimpleLinkedList.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\StringReplace.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\StringReplace.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\UnitTest.g.i.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\UnitTest.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\App.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\AppsandStrings.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\HashMaps.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\LinkedLists.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\MainPage.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\Permutation.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SecondPage.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SimpleHashMap.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SimpleLinkedList.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\StringReplace.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\UnitTest.xaml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\App.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\AppsandStrings.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\HashMaps.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\LinkedLists.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\MainPage.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\Permutation.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SecondPage.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SimpleHashMap.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\SimpleLinkedList.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\StringReplace.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\UnitTest.xbf
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\XamlSaveStateFile.xml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\Gravitas Coding.exe
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\Gravitas Coding.pdb
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\priconfig.xml
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\priconfig.xml.intermediate
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\layout.resfiles
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\layout.resfiles.intermediate
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\resources.resfiles
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\resources.resfiles.intermediate
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\pri.resfiles
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\pri.resfiles.intermediate
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\qualifiers.txt
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\qualifiers.txt.intermediate
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AlanLale\Documents\Visual Studio 2015\Projects\Gravitas Coding\Gravitas Coding\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Gravitas_Coding.HashMaps"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Gravitas_Coding"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FF529FCD">
+        <HyperlinkButton x:ConnectionId='1' Content="Simple Hash Map" HorizontalAlignment="Left" Margin="59,90,0,0" VerticalAlignment="Top" Height="87" Width="314" FontFamily="Fonts/Consolas.ttf#Consolas"                              />
+        <HyperlinkButton Content="Advanced Hash Map" HorizontalAlignment="Left" Margin="81,170,0,0" VerticalAlignment="Top" Height="87" Width="292" FontFamily="Fonts/Consolas.ttf#Consolas"/>
+        <HyperlinkButton Content="Other HashMaps" HorizontalAlignment="Left" Margin="81,255,0,0" VerticalAlignment="Top" Height="87" Width="258" FontFamily="Fonts/Consolas.ttf#Consolas"/>
+    </Grid>
+</Page>
+

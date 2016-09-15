@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="Gravitas_Coding.AppsandStrings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Gravitas_Coding"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FF529FCD">
+        <HyperlinkButton Content="Paldindrome" HorizontalAlignment="Left" Margin="81,85,0,0" VerticalAlignment="Top" Height="87" Width="258" Click="HyperlinkButton_Click" FontFamily="Fonts/Consolas.ttf#Consolas"/>
+        <HyperlinkButton Content="Permutation" HorizontalAlignment="Left" Margin="81,170,0,0" VerticalAlignment="Top" Height="87" Width="258" FontFamily="Fonts/Consolas.ttf#Consolas" Click="HyperlinkButton_Click_1"/>
+        <HyperlinkButton Content="Replace Spaces" HorizontalAlignment="Left" Margin="81,255,0,0" VerticalAlignment="Top" Height="87" Width="258" FontFamily="Fonts/Consolas.ttf#Consolas" Click="HyperlinkButton_Click_2"/>
+    </Grid>
+</Page>
